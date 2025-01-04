@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['q_5fuseful_5fbuf_2eh_0',['q_useful_buf.h',['../q__useful__buf_8h.html',1,'']]]
+  ['partial_5fiv_0',['partial_iv',['../structt__cose__parameters.html#ad8a4fa4384065c2e593bfc3d8b0b4a62',1,'t_cose_parameters']]]
 ];
